@@ -1,0 +1,62 @@
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Form1.resources
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Properties.Resources.resources
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.csproj.GenerateResource.Cache
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\bin\Debug\Sisveug.exe
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\bin\Debug\Sisveug.pdb
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.exe
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.pdb
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\bin\Debug\Sisveug.exe.config
+C:\Users\jksj\Desktop\Sisveug\Sisveug\bin\Debug\Sisveug.exe.config
+C:\Users\jksj\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.exe
+C:\Users\jksj\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.pdb
+C:\Users\jksj\Desktop\Sisveug\Sisveug\bin\Debug\Sisveug.exe
+C:\Users\jksj\Desktop\Sisveug\Sisveug\bin\Debug\Sisveug.pdb
+C:\Users\jksj\Desktop\Sisveug\Sisveug\bin\Debug\MySql.Data.dll
+C:\Users\jksj\Desktop\Sisveug\Sisveug\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jksj\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Form1.resources
+C:\Users\jksj\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Formularios.FormClientes.resources
+C:\Users\jksj\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Properties.Resources.resources
+C:\Users\jksj\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.csproj.GenerateResource.Cache
+C:\Users\jksj\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Formularios.FormTecnicos.resources
+C:\Users\jksj\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Formularios.FormMarcas.resources
+C:\Users\jksj\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Formularios.FormPrincipal.resources
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Formularios.FormClientes.resources
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Formularios.FormMarcas.resources
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Formularios.FormPrincipal.resources
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Formularios.FormTecnicos.resources
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.FormOperaciones.FormServicio.resources
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.FormOperaciones.TxtNumSercicio.resources
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Formularios.FormCategorias.resources
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Formularios.FormDiagnostico.resources
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Formularios.FormEquipos.resources
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Formularios.FormPiezas.resources
+C:\Users\Equipo1\Desktop\Sisveug\Sisveug\obj\Debug\Sisveug.Formularios.AboutBox1.resources
+C:\Users\Equipo1\Desktop\Sisveug finalllll\Sisveug\bin\Debug\Sisveug.exe.config
+C:\Users\Equipo1\Desktop\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.exe
+C:\Users\Equipo1\Desktop\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.pdb
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\bin\Debug\Sisveug.exe.config
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.exe
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.pdb
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\bin\Debug\Sisveug.exe
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\bin\Debug\Sisveug.pdb
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.csprojResolveAssemblyReference.cache
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.Form1.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.FormOperaciones.TxtNumSercicio.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.FormOperaciones.FormServicio.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.Formularios.AboutBox1.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.Formularios.FormCategorias.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.Formularios.FormClientes.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.Formularios.FormDiagnostico.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.Formularios.FormEquipos.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.Formularios.FormMarcas.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.Formularios.FormPiezas.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.Formularios.FormPrincipal.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.Formularios.FormTecnicos.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.Properties.Resources.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.csproj.GenerateResource.Cache
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.Reportes.FormConsultaGeneral.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.Reportes.FormFactura.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.Reportes.FormServiciosXTecnicos.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.FormReporteGeneral.resources
+D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug\obj\Debug\Sisveug.Formularios.FormSoluciones.resources

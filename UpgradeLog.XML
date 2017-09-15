@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Sisveug">
+</Property><Property Name="Solution File" Value="D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug.sln">
+</Property><Property Name="User Options File" Value="D:\universidad\SEMESTR VI\programacion VI semestre\Sisveug finalllll\Sisveug.suo">
+</Property><Property Name="Date" Value="viernes, 13 de mayo de 2016">
+</Property><Property Name="Time" Value="16:06">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Sisveug.sln" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Sisveug.suo" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug.suo">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Sisveug.csproj" Description="Project file successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Sisveug.csproj">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Sisveug.csproj.user" Description="Project user file successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Sisveug.csproj.user">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\ClasesOperaciones\IEnlace.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\ClasesOperaciones\IEnlace.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\ClasesOperaciones\InsertarServicio.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\ClasesOperaciones\InsertarServicio.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\ClasesOperaciones\Ir.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\ClasesOperaciones\Ir.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Form1.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Form1.Designer.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\FormOperaciones\FormMantenimiento.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\FormOperaciones\FormMantenimiento.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\FormOperaciones\FormMantenimiento.Designer.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\FormOperaciones\FormMantenimiento.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\FormOperaciones\FormServicio.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\FormOperaciones\FormServicio.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\FormOperaciones\FormServicio.Designer.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\FormOperaciones\FormServicio.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\AboutBox1.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\AboutBox1.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\AboutBox1.Designer.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\AboutBox1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormCategorias.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormCategorias.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormCategorias.designer.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormCategorias.designer.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormClientes.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormClientes.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormClientes.designer.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormClientes.designer.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormDiagnostico.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormDiagnostico.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormDiagnostico.designer.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormDiagnostico.designer.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormEquipos.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormEquipos.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormEquipos.designer.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormEquipos.designer.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormMarcas.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormMarcas.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormMarcas.designer.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormMarcas.designer.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormPiezas.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormPiezas.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormPiezas.designer.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormPiezas.designer.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormPrincipal.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormPrincipal.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormPrincipal.designer.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormPrincipal.designer.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormTecnicos.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormTecnicos.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormTecnicos.designer.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormTecnicos.designer.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\MisClases\Cadena.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\MisClases\Cadena.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\MisClases\Eliminar.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\MisClases\Eliminar.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\MisClases\EliminarMarcas.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\MisClases\EliminarMarcas.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\MisClases\Insertar.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\MisClases\Insertar.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\MisClases\InsertarMarcas.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\MisClases\InsertarMarcas.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\MisClases\Mostrar.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\MisClases\Mostrar.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\MisClases\MostrarMarcas.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\MisClases\MostrarMarcas.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Program.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Program.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\app.config" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\app.config">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Properties\Settings.settings" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Resources\mager-ds.png" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Resources\mager-ds.png">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Resources\BarraIsquierda.png" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Resources\BarraIsquierda.png">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Resources\Fondo.png" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Resources\Fondo.png">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Resources\mager.png" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Resources\mager.png">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Resources\Modificar cantidad.gif" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Resources\Modificar cantidad.gif">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Resources\EDITAR.bmp" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Resources\EDITAR.bmp">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Resources\Ir.png" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Resources\Ir.png">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Resources\Search_32.png" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Resources\Search_32.png">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Resources\mager.qw.png" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Resources\mager.qw.png">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Resources\3t33.png" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Resources\3t33.png">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Form1.resx" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\FormOperaciones\FormMantenimiento.resx" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\FormOperaciones\FormMantenimiento.resx">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\FormOperaciones\FormServicio.resx" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\FormOperaciones\FormServicio.resx">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\AboutBox1.resx" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormCategorias.resx" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormCategorias.resx">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormClientes.resx" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormClientes.resx">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormDiagnostico.resx" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormDiagnostico.resx">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormEquipos.resx" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormEquipos.resx">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormMarcas.resx" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormMarcas.resx">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormPiezas.resx" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormPiezas.resx">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormPrincipal.resx" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormPrincipal.resx">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Formularios\FormTecnicos.resx" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Formularios\FormTecnicos.resx">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Properties\Resources.resx" Description="File successfully backed up as C:\Users\CHINO\Desktop\Backup\Sisveug\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Sisveug.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Sisveug" Source="Sisveug\Sisveug.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Sisveug.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Sisveug.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Sisveug" Source="Sisveug\Sisveug.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
